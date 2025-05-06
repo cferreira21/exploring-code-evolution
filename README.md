@@ -76,11 +76,11 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/keras-team/keras
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: LOC e LOC/Python files
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: O número de linhas de código cresce entre 2020 e 2023, com o LOC/Files crescendo bastante de 2020 para 2021 e permanecendo estável até 2023. Porém, a partir de 2024, há uma queda brusca na quantidade de LOC e também na quantidade de LOC/Files. Investigando os changelogs, essa queda coincide com o lançamento da versão 3.0.0. Analisando a última tag de versão major 2 (2.15) e a versão 3.0.0, foram 2.208 arquivos modificados, com 179.183 adições e 426.172 remoções. Isso se deve a cleanups e modernizações que aconteceram nesta versão, onde foram removidas APIs depreciadas e ocorreram vários commits de refatoração, com o objetivo de tornar o framework menos complexo e mais fácil de dar manutenção e evoluir.  
 
 
 
